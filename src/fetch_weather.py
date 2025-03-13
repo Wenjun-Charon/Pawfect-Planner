@@ -1,4 +1,5 @@
-
+import requests
+from src.config import OPENWEATHERMAP_API_KEY
 def get_weather(location):
     url = "http://api.openweathermap.org/data/2.5/weather"
     if location.isdigit():
