@@ -78,7 +78,7 @@ The script will prompt for:
 ```
 pawfect-planner/
 │── src/
-│   ├── main.ipynb                # Main script to run the program
+│── main.ipynb                 # Main script to run the program
 │── requirements.txt           # Python dependencies
 │── README.md                  # Project documentation
 ```
