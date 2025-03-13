@@ -78,11 +78,7 @@ The script will prompt for:
 ```
 pawfect-planner/
 │── src/
-│   ├── fetch_weather.py       # Weather API integration
-│   ├── fetch_pet_places.py    # Google Places & Yelp API integration
-│   ├── fetch_pet_events.py    # Yelp API event search
-│   ├── fetch_wiki_breeds.py   # Wikipedia breed data retrieval
-│   ├── main.py                # Main script to run the program
+│   ├── main.ipynb                # Main script to run the program
 │── requirements.txt           # Python dependencies
 │── README.md                  # Project documentation
 ```
